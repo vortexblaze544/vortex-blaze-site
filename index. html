@@ -1,1 +1,17 @@
-https://pastebin.com/raw/jWEjsAGF
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dr. Vortex Blaze</title>
+</head>
+<body style="background-color: #0a0a0a; color: #f0f0f0; font-family: Arial, sans-serif; padding: 2rem;">
+  <h1>Welcome to the ChronoHub of Dr. Vortex Blaze</h1>
+  <p>This is your official launchpad into the timelines.</p>
+  <ul>
+    <li><a href="moon-listening.html" style="color:#00ffc8;">The Moon is Listening</a></li>
+    <li><a href="mars-haunted.html" style="color:#00ffc8;">Mars is Haunted</a></li>
+  </ul>
+  <p>More cosmic transmissions coming soon…</p>
+</body>
+</html>
